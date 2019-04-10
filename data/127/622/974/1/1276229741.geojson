@@ -1,0 +1,64 @@
+{
+  "id": 1276229741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-173.94447,-18.62026,-173.94447,-18.62026",
+    "geom:latitude":-18.62026,
+    "geom:longitude":-173.94447,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ha'akio",
+    "gn:country_code":"TO",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8528760,
+    "gn:latitude":-18.62026,
+    "gn:longitude":-173.94447,
+    "gn:modification_date":"2015-03-28",
+    "gn:name":"Ha\u2019akio",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8528760
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"b74231bacca75778738a46d90fb85e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632455,
+            "locality_id":1276229741,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276229741,
+    "wof:lastmodified":1536918209,
+    "wof:name":"Ha'akio",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -173.94447,
+    -18.62026,
+    -173.94447,
+    -18.62026
+],
+  "geometry": {"coordinates":[-173.94447,-18.62026],"type":"Point"}
+}

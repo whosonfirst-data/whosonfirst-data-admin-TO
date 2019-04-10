@@ -1,0 +1,71 @@
+{
+  "id": 1226654773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-175.32984,-21.14459,-175.32984,-21.14459",
+    "geom:latitude":-21.14459,
+    "geom:longitude":-175.32984,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ha`utu",
+    "gn:country_code":"TO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4036396,
+    "gn:latitude":-21.14459,
+    "gn:longitude":-175.32984,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"H\u0101\u2018utu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ton_x_preferred":[
+        "H\u0101\u2018utu"
+    ],
+    "name:ton_x_variant":[
+        "Ha\u2018utu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632455,
+        85679003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4036396
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"0437a5f52d735699db1f02aa38691c52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632455,
+            "locality_id":1226654773,
+            "region_id":85679003
+        }
+    ],
+    "wof:id":1226654773,
+    "wof:lastmodified":1537706542,
+    "wof:name":"Ha`utu",
+    "wof:parent_id":85679003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -175.32984,
+    -21.14459,
+    -175.32984,
+    -21.14459
+],
+  "geometry": {"coordinates":[-175.32983999999999,-21.14459],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1343674533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-175.33792,-21.09099,-175.33792,-21.09099",
+    "geom:latitude":-21.09099,
+    "geom:longitude":-175.33792,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ha`akili",
+    "gn:country_code":"TO",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4032643,
+    "gn:latitude":-21.09099,
+    "gn:longitude":-175.33792,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Ha\u2018akili",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632455,
+        85679003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4032643
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"8c8690012ee1b83019130c11a11fa159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632455,
+            "locality_id":1343674533,
+            "region_id":85679003
+        }
+    ],
+    "wof:id":1343674533,
+    "wof:lastmodified":1536935457,
+    "wof:name":"Ha`akili",
+    "wof:parent_id":85679003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -175.33792,
+    -21.09099,
+    -175.33792,
+    -21.09099
+],
+  "geometry": {"coordinates":[-175.33792,-21.09099],"type":"Point"}
+}

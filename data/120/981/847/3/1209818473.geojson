@@ -1,0 +1,66 @@
+{
+  "id": 1209818473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-175.14282,-21.19258,-175.14282,-21.19258",
+    "geom:latitude":-21.19258,
+    "geom:longitude":-175.14282,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Holonga",
+    "gn:country_code":"TO",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4032613,
+    "gn:latitude":-21.19258,
+    "gn:longitude":-175.14282,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Holonga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632455,
+        85679003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4032613,
+        "wk:page":"Holonga_%28Tongatapu%29"
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"1bff8a0240ec4c4807212114cdc72dba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632455,
+            "locality_id":1209818473,
+            "region_id":85679003
+        }
+    ],
+    "wof:id":1209818473,
+    "wof:lastmodified":1537574455,
+    "wof:name":"Holonga",
+    "wof:parent_id":85679003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -175.14282,
+    -21.19258,
+    -175.14282,
+    -21.19258
+],
+  "geometry": {"coordinates":[-175.14282,-21.19258],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1326739153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-175.27612,-21.13385,-175.27612,-21.13385",
+    "geom:latitude":-21.13385,
+    "geom:longitude":-175.27612,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Fatai",
+    "gn:country_code":"TO",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4032688,
+    "gn:latitude":-21.13385,
+    "gn:longitude":-175.27612,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Fatai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632455,
+        85679003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4032688
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"a15885712c1ccbaa9e742fafba04d37e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632455,
+            "locality_id":1326739153,
+            "region_id":85679003
+        }
+    ],
+    "wof:id":1326739153,
+    "wof:lastmodified":1536685659,
+    "wof:name":"Fatai",
+    "wof:parent_id":85679003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -175.27612,
+    -21.13385,
+    -175.27612,
+    -21.13385
+],
+  "geometry": {"coordinates":[-175.27611999999999,-21.13385],"type":"Point"}
+}

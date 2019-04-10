@@ -1,0 +1,64 @@
+{
+  "id": 1226549323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-174.35,-19.81667,-174.35,-19.81667",
+    "geom:latitude":-19.81667,
+    "geom:longitude":-174.35,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hatou",
+    "gn:country_code":"TO",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4032624,
+    "gn:latitude":-19.81667,
+    "gn:longitude":-174.35,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Hatou",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4032624
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"8378f88e2f44dbfdf55b1dbb673410dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632455,
+            "locality_id":1226549323,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226549323,
+    "wof:lastmodified":1536991972,
+    "wof:name":"Hatou",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -174.35,
+    -19.81667,
+    -174.35,
+    -19.81667
+],
+  "geometry": {"coordinates":[-174.34999999999999,-19.81667],"type":"Point"}
+}

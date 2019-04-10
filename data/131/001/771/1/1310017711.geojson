@@ -1,0 +1,61 @@
+{
+  "id": 1310017711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-174.39229,-19.67198,-174.39229,-19.67198",
+    "geom:latitude":-19.67198,
+    "geom:longitude":-174.39229,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Luahoko",
+    "gn:country_code":"TO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8528891,
+    "gn:latitude":-19.67198,
+    "gn:longitude":-174.39229,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Luahoko",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8528891
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"18208c7d39ebd2efd820acdf97035912",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310017711,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310017711,
+    "wof:lastmodified":1536623679,
+    "wof:name":"Luahoko",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -174.39229,
+    -19.67198,
+    -174.39229,
+    -19.67198
+],
+  "geometry": {"coordinates":[-174.39229,-19.67198],"type":"Point"}
+}

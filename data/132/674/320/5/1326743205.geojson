@@ -1,0 +1,66 @@
+{
+  "id": 1326743205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-175.12674,-21.15191,-175.12674,-21.15191",
+    "geom:latitude":-21.15191,
+    "geom:longitude":-175.12674,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nukuleka",
+    "gn:country_code":"TO",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4032395,
+    "gn:latitude":-21.15191,
+    "gn:longitude":-175.12674,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Nukuleka",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632455,
+        85679003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4032395,
+        "wk:page":"Nukuleka"
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"3ad07947a51f24c9502bc7dfebb987db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632455,
+            "locality_id":1326743205,
+            "region_id":85679003
+        }
+    ],
+    "wof:id":1326743205,
+    "wof:lastmodified":1537574454,
+    "wof:name":"Nukuleka",
+    "wof:parent_id":85679003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -175.12673999999996,
+    -21.15191,
+    -175.12673999999996,
+    -21.15191
+],
+  "geometry": {"coordinates":[-175.12673999999996,-21.15191],"type":"Point"}
+}

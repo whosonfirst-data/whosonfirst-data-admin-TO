@@ -1,0 +1,64 @@
+{
+  "id": 1259390289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-173.92205,-18.64246,-173.92205,-18.64246",
+    "geom:latitude":-18.64246,
+    "geom:longitude":-173.92205,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Holeva",
+    "gn:country_code":"TO",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8528768,
+    "gn:latitude":-18.64246,
+    "gn:longitude":-173.92205,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Holeva",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8528768
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"aa5024cdcd6bad4509c4e35dade19437",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632455,
+            "locality_id":1259390289,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259390289,
+    "wof:lastmodified":1536991577,
+    "wof:name":"Holeva",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -173.92205,
+    -18.64246,
+    -173.92205,
+    -18.64246
+],
+  "geometry": {"coordinates":[-173.92205000000001,-18.64246],"type":"Point"}
+}

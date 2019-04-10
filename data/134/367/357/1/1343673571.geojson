@@ -1,0 +1,65 @@
+{
+  "id": 1343673571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-173.92364,-18.62671,-173.92364,-18.62671",
+    "geom:latitude":-18.62671,
+    "geom:longitude":-173.92364,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kei",
+    "gn:country_code":"TO",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8528758,
+    "gn:latitude":-18.62671,
+    "gn:longitude":-173.92364,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Kei",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632455,
+        85679007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8528758
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"f33a34ca770b6b4442128c2be91683a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632455,
+            "locality_id":1343673571,
+            "region_id":85679007
+        }
+    ],
+    "wof:id":1343673571,
+    "wof:lastmodified":1536936849,
+    "wof:name":"Kei",
+    "wof:parent_id":85679007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -173.92363999999995,
+    -18.62671,
+    -173.92363999999995,
+    -18.62671
+],
+  "geometry": {"coordinates":[-173.92363999999995,-18.62671],"type":"Point"}
+}

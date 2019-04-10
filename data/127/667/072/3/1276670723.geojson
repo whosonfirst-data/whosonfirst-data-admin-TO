@@ -1,0 +1,65 @@
+{
+  "id": 1276670723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-175.3,-21.13333,-175.3,-21.13333",
+    "geom:latitude":-21.13333,
+    "geom:longitude":-175.3,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nukunuku",
+    "gn:country_code":"TO",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4032392,
+    "gn:latitude":-21.13333,
+    "gn:longitude":-175.3,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Nukunuku",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632455,
+        85679003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4032392
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"ccd146d6d01134fa95fb805a2b1eb58f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632455,
+            "locality_id":1276670723,
+            "region_id":85679003
+        }
+    ],
+    "wof:id":1276670723,
+    "wof:lastmodified":1536822672,
+    "wof:name":"Nukunuku",
+    "wof:parent_id":85679003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -175.3,
+    -21.13333,
+    -175.3,
+    -21.13333
+],
+  "geometry": {"coordinates":[-175.30000000000001,-21.13333],"type":"Point"}
+}

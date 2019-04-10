@@ -1,0 +1,68 @@
+{
+  "id": 1344170023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-175.12453,-21.18627,-175.12453,-21.18627",
+    "geom:latitude":-21.18627,
+    "geom:longitude":-175.12453,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tatakamotonga",
+    "gn:country_code":"TO",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11543613,
+    "gn:latitude":-21.18627,
+    "gn:longitude":-175.12453,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Tatakamotonga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ton_x_preferred":[
+        "Tatakamotonga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632455,
+        85679003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11543613
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"2ccf14dec878f94a69d1b75c0a9e91d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632455,
+            "locality_id":1344170023,
+            "region_id":85679003
+        }
+    ],
+    "wof:id":1344170023,
+    "wof:lastmodified":1537706542,
+    "wof:name":"Tatakamotonga",
+    "wof:parent_id":85679003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -175.12453,
+    -21.18627,
+    -175.12453,
+    -21.18627
+],
+  "geometry": {"coordinates":[-175.12452999999999,-21.18627],"type":"Point"}
+}

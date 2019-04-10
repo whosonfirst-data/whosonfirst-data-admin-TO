@@ -1,0 +1,66 @@
+{
+  "id": 1209012091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-174.07507,-18.69929,-174.07507,-18.69929",
+    "geom:latitude":-18.69929,
+    "geom:longitude":-174.07507,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Nopapu",
+    "gn:country_code":"TO",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4032407,
+    "gn:latitude":-18.69929,
+    "gn:longitude":-174.07507,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Nopapu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nobabu",
+        "Nopapu",
+        "Nuapapu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4032407
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"77b3a4c8d4a2703660707cc9128986fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632455,
+            "locality_id":1209012091
+        }
+    ],
+    "wof:id":1209012091,
+    "wof:lastmodified":1537706541,
+    "wof:name":"Nopapu",
+    "wof:parent_id":85632455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -174.07506999999995,
+    -18.69929,
+    -174.07506999999995,
+    -18.69929
+],
+  "geometry": {"coordinates":[-174.07506999999995,-18.69929],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1293392155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-173.98121,-18.59964,-173.98121,-18.59964",
+    "geom:latitude":-18.59964,
+    "geom:longitude":-173.98121,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Leimatu`a",
+    "gn:country_code":"TO",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4032535,
+    "gn:latitude":-18.59964,
+    "gn:longitude":-173.98121,
+    "gn:modification_date":"2013-05-05",
+    "gn:name":"Leimatu\u2018a",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632455,
+        85679007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4032535
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"f0b1654d2f0dc4bf8cfef3c3be868fef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632455,
+            "locality_id":1293392155,
+            "region_id":85679007
+        }
+    ],
+    "wof:id":1293392155,
+    "wof:lastmodified":1536925148,
+    "wof:name":"Leimatu`a",
+    "wof:parent_id":85679007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -173.98121,
+    -18.59964,
+    -173.98121,
+    -18.59964
+],
+  "geometry": {"coordinates":[-173.98121,-18.59964],"type":"Point"}
+}

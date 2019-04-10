@@ -1,0 +1,66 @@
+{
+  "id": 1276984545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-174.28729,-19.73392,-174.28729,-19.73392",
+    "geom:latitude":-19.73392,
+    "geom:longitude":-174.28729,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Faleloa",
+    "gn:country_code":"TO",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4032703,
+    "gn:latitude":-19.73392,
+    "gn:longitude":-174.28729,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Faleloa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632455,
+        85679015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4032703,
+        "wk:page":"Faleloa"
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"3d1406baa1779a9f2fee9f058d3f469a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632455,
+            "locality_id":1276984545,
+            "region_id":85679015
+        }
+    ],
+    "wof:id":1276984545,
+    "wof:lastmodified":1537574455,
+    "wof:name":"Faleloa",
+    "wof:parent_id":85679015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -174.28728999999996,
+    -19.73392,
+    -174.28728999999996,
+    -19.73392
+],
+  "geometry": {"coordinates":[-174.28728999999996,-19.73392],"type":"Point"}
+}

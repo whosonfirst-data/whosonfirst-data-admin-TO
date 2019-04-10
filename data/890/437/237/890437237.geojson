@@ -1,0 +1,60 @@
+{
+  "id": 890437237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-174.95,-21.33333,-174.95,-21.33333",
+    "geom:latitude":-21.33333,
+    "geom:longitude":-174.95,
+    "gn:country":"TO",
+    "gn:fcode":"PPL",
+    "gn:pop":1241,
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"\u2018Ohonua",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4032384,
+        "gp:id":12517847,
+        "qs:id":1047690
+    },
+    "wof:country":"TO",
+    "wof:created":1469052143,
+    "wof:geomhash":"4328a2b6fc34ea3198627c29b2826358",
+    "wof:hierarchy":[
+        {
+            "country_id":85632455,
+            "locality_id":890437237
+        }
+    ],
+    "wof:id":890437237,
+    "wof:lastmodified":1505343558,
+    "wof:name":"\u2018Ohonua",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":1241,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -174.95,
+    -21.33333,
+    -174.95,
+    -21.33333
+],
+  "geometry": {"coordinates":[-174.94999999999999,-21.33333],"type":"Point"}
+}

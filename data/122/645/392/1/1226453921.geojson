@@ -1,0 +1,65 @@
+{
+  "id": 1226453921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-175.14328,-21.21283,-175.14328,-21.21283",
+    "geom:latitude":-21.21283,
+    "geom:longitude":-175.14328,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Pelehake",
+    "gn:country_code":"TO",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8529147,
+    "gn:latitude":-21.21283,
+    "gn:longitude":-175.14328,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Pelehake",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632455,
+        85679003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8529147
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"33f2b0ed16733484e5c57e22bb485098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632455,
+            "locality_id":1226453921,
+            "region_id":85679003
+        }
+    ],
+    "wof:id":1226453921,
+    "wof:lastmodified":1536632167,
+    "wof:name":"Pelehake",
+    "wof:parent_id":85679003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -175.14328,
+    -21.21283,
+    -175.14328,
+    -21.21283
+],
+  "geometry": {"coordinates":[-175.14328,-21.21283],"type":"Point"}
+}

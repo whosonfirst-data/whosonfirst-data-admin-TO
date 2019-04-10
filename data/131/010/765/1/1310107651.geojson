@@ -1,0 +1,64 @@
+{
+  "id": 1310107651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-174.03291,-18.66271,-174.03291,-18.66271",
+    "geom:latitude":-18.66271,
+    "geom:longitude":-174.03291,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tu`anuku",
+    "gn:country_code":"TO",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4032272,
+    "gn:latitude":-18.66271,
+    "gn:longitude":-174.03291,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Tu\u2018anuku",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4032272
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"43115cd0952b1aa4724dec835f57a430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632455,
+            "locality_id":1310107651,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310107651,
+    "wof:lastmodified":1536992534,
+    "wof:name":"Tu`anuku",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -174.03291000000004,
+    -18.66271,
+    -174.03291000000004,
+    -18.66271
+],
+  "geometry": {"coordinates":[-174.03291000000004,-18.66271],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1310413493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-173.95623,-18.6719,-173.95623,-18.6719",
+    "geom:latitude":-18.6719,
+    "geom:longitude":-173.95623,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"'Olo'ua",
+    "gn:country_code":"TO",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8528763,
+    "gn:latitude":-18.6719,
+    "gn:longitude":-173.95623,
+    "gn:modification_date":"2015-03-28",
+    "gn:name":"\u2019Olo\u2019ua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8528763
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"79f7c4a0f27d8288331f66bb2d21e5d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632455,
+            "locality_id":1310413493,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310413493,
+    "wof:lastmodified":1537047672,
+    "wof:name":"'Olo'ua",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -173.95623,
+    -18.6719,
+    -173.95623,
+    -18.6719
+],
+  "geometry": {"coordinates":[-173.95623000000001,-18.6719],"type":"Point"}
+}

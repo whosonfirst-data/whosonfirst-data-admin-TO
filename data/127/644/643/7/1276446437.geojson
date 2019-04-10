@@ -1,0 +1,65 @@
+{
+  "id": 1276446437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-175.67,-15.58725,-175.67,-15.58725",
+    "geom:latitude":-15.58725,
+    "geom:longitude":-175.67,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Futu",
+    "gn:country_code":"TO",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8527822,
+    "gn:latitude":-15.58725,
+    "gn:longitude":-175.67,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Futu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632455,
+        85679011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8527822
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"37840235ca439b0875a3760ac73d307f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632455,
+            "locality_id":1276446437,
+            "region_id":85679011
+        }
+    ],
+    "wof:id":1276446437,
+    "wof:lastmodified":1536625061,
+    "wof:name":"Futu",
+    "wof:parent_id":85679011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -175.67,
+    -15.58725,
+    -175.67,
+    -15.58725
+],
+  "geometry": {"coordinates":[-175.66999999999999,-15.58725],"type":"Point"}
+}

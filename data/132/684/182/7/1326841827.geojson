@@ -1,0 +1,64 @@
+{
+  "id": 1326841827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-173.95616,-18.62524,-173.95616,-18.62524",
+    "geom:latitude":-18.62524,
+    "geom:longitude":-173.95616,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mangia",
+    "gn:country_code":"TO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4032492,
+    "gn:latitude":-18.62524,
+    "gn:longitude":-173.95616,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Mangia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4032492
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"190bf2a5a0aa5b176e2177c7f233d338",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632455,
+            "locality_id":1326841827,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326841827,
+    "wof:lastmodified":1537033452,
+    "wof:name":"Mangia",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -173.95616,
+    -18.62524,
+    -173.95616,
+    -18.62524
+],
+  "geometry": {"coordinates":[-173.95616000000001,-18.62524],"type":"Point"}
+}

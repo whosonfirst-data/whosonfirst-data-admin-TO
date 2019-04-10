@@ -1,0 +1,61 @@
+{
+  "id": 1209426557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-173.98239,-18.67585,-173.98239,-18.67585",
+    "geom:latitude":-18.67585,
+    "geom:longitude":-173.98239,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Toula",
+    "gn:country_code":"TO",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8528762,
+    "gn:latitude":-18.67585,
+    "gn:longitude":-173.98239,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Toula",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8528762
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"b3feef4f838a033ef70018a1a2150800",
+    "wof:hierarchy":[
+        {
+            "country_id":85632455,
+            "locality_id":1209426557
+        }
+    ],
+    "wof:id":1209426557,
+    "wof:lastmodified":1536287365,
+    "wof:name":"Toula",
+    "wof:parent_id":85632455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -173.98238999999995,
+    -18.67585,
+    -173.98238999999995,
+    -18.67585
+],
+  "geometry": {"coordinates":[-173.98238999999995,-18.67585],"type":"Point"}
+}

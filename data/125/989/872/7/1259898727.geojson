@@ -1,0 +1,63 @@
+{
+  "id": 1259898727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-175.21086,-21.14575,-175.21086,-21.14575",
+    "geom:latitude":-21.14575,
+    "geom:longitude":-175.21086,
+    "gn:asciiname":"Fanga O Pilolevu",
+    "gn:country_code":"TO",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11592701,
+    "gn:latitude":-21.14575,
+    "gn:longitude":-175.21086,
+    "gn:modification_date":"2017-06-18",
+    "gn:name":"Fanga O Pilolevu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11592701
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"99b7adbb0cce86361c4b8c923864631d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632455,
+            "locality_id":1259898727,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259898727,
+    "wof:lastmodified":1536757282,
+    "wof:name":"Fanga O Pilolevu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -175.21086,
+    -21.14575,
+    -175.21086,
+    -21.14575
+],
+  "geometry": {"coordinates":[-175.21086,-21.14575],"type":"Point"}
+}

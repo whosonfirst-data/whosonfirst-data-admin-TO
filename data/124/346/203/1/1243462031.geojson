@@ -1,0 +1,64 @@
+{
+  "id": 1243462031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-174.02195,-18.68474,-174.02195,-18.68474",
+    "geom:latitude":-18.68474,
+    "geom:longitude":-174.02195,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Nga'unoho",
+    "gn:country_code":"TO",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8528772,
+    "gn:latitude":-18.68474,
+    "gn:longitude":-174.02195,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Nga\u2019unoho",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8528772
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"9050ed4d85c9a561f8514a54272f854a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632455,
+            "locality_id":1243462031,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243462031,
+    "wof:lastmodified":1536783490,
+    "wof:name":"Nga'unoho",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -174.02195,
+    -18.68474,
+    -174.02195,
+    -18.68474
+],
+  "geometry": {"coordinates":[-174.02195,-18.68474],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1310703821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-174.03664,-18.70705,-174.03664,-18.70705",
+    "geom:latitude":-18.70705,
+    "geom:longitude":-174.03664,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kapa",
+    "gn:country_code":"TO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8528766,
+    "gn:latitude":-18.70705,
+    "gn:longitude":-174.03664,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Kapa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8528766
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"85da44e408403c1e6de5f542c3de5cea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632455,
+            "locality_id":1310703821,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310703821,
+    "wof:lastmodified":1536629060,
+    "wof:name":"Kapa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -174.03663999999995,
+    -18.70705,
+    -174.03663999999995,
+    -18.70705
+],
+  "geometry": {"coordinates":[-174.03663999999995,-18.70705],"type":"Point"}
+}

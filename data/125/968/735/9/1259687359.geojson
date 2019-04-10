@@ -1,0 +1,65 @@
+{
+  "id": 1259687359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-175.27939,-21.14211,-175.27939,-21.14211",
+    "geom:latitude":-21.14211,
+    "geom:longitude":-175.27939,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lakepa",
+    "gn:country_code":"TO",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4032548,
+    "gn:latitude":-21.14211,
+    "gn:longitude":-175.27939,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Lakepa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632455,
+        85679003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4032548
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"7b20701465af637a389628d299a373e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632455,
+            "locality_id":1259687359,
+            "region_id":85679003
+        }
+    ],
+    "wof:id":1259687359,
+    "wof:lastmodified":1537058824,
+    "wof:name":"Lakepa",
+    "wof:parent_id":85679003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -175.27938999999995,
+    -21.14211,
+    -175.27938999999995,
+    -21.14211
+],
+  "geometry": {"coordinates":[-175.27938999999995,-21.14211],"type":"Point"}
+}

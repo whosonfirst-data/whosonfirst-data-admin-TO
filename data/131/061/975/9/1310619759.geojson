@@ -1,0 +1,66 @@
+{
+  "id": 1310619759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-173.95314,-18.64864,-173.95314,-18.64864",
+    "geom:latitude":-18.64864,
+    "geom:longitude":-173.95314,
+    "gn:asciiname":"Okoa",
+    "gn:country_code":"TO",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10175032,
+    "gn:latitude":-18.64864,
+    "gn:longitude":-173.95314,
+    "gn:modification_date":"2015-03-28",
+    "gn:name":"Okoa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "'Okoa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10175032
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"3bc57c2f1da4f6b9a4d71dbbfb7b25e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632455,
+            "locality_id":1310619759,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310619759,
+    "wof:lastmodified":1537706542,
+    "wof:name":"Okoa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -173.95314,
+    -18.64864,
+    -173.95314,
+    -18.64864
+],
+  "geometry": {"coordinates":[-173.95313999999999,-18.64864],"type":"Point"}
+}

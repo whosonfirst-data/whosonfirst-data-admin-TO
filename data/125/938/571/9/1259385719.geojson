@@ -1,0 +1,67 @@
+{
+  "id": 1259385719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-175.12304,-21.26759,-175.12304,-21.26759",
+    "geom:latitude":-21.26759,
+    "geom:longitude":-175.12304,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nakolo",
+    "gn:country_code":"TO",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4032425,
+    "gn:latitude":-21.26759,
+    "gn:longitude":-175.12304,
+    "gn:modification_date":"2017-09-04",
+    "gn:name":"Nakolo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ton_x_preferred":[
+        "Nakolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4032425
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"3573b08c367910d39efe65868172eca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632455,
+            "locality_id":1259385719,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259385719,
+    "wof:lastmodified":1537706541,
+    "wof:name":"Nakolo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -175.12304,
+    -21.26759,
+    -175.12304,
+    -21.26759
+],
+  "geometry": {"coordinates":[-175.12304,-21.26759],"type":"Point"}
+}

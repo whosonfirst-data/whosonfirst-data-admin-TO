@@ -1,0 +1,65 @@
+{
+  "id": 1193139089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-175.61777,-15.5731,-175.61777,-15.5731",
+    "geom:latitude":-15.5731,
+    "geom:longitude":-175.61777,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Fata`ulua",
+    "gn:country_code":"TO",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4032687,
+    "gn:latitude":-15.5731,
+    "gn:longitude":-175.61777,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Fata\u2018ulua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632455,
+        85679011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4032687
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"7f1ad5b5bb29efc100224e2a8aac63be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632455,
+            "locality_id":1193139089,
+            "region_id":85679011
+        }
+    ],
+    "wof:id":1193139089,
+    "wof:lastmodified":1536367318,
+    "wof:name":"Fata`ulua",
+    "wof:parent_id":85679011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -175.61777,
+    -15.5731,
+    -175.61777,
+    -15.5731
+],
+  "geometry": {"coordinates":[-175.61777000000001,-15.5731],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1360288797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-175.32424,-21.12535,-175.32424,-21.12535",
+    "geom:latitude":-21.12535,
+    "geom:longitude":-175.32424,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Masilamea",
+    "gn:country_code":"TO",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4032483,
+    "gn:latitude":-21.12535,
+    "gn:longitude":-175.32424,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Masilamea",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Masitamea",
+        "Masilamea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632455,
+        85679003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4032483
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"a5ec66b0afb16cc6580eb2c5d4f24641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632455,
+            "locality_id":1360288797,
+            "region_id":85679003
+        }
+    ],
+    "wof:id":1360288797,
+    "wof:lastmodified":1537706541,
+    "wof:name":"Masilamea",
+    "wof:parent_id":85679003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -175.32424,
+    -21.12535,
+    -175.32424,
+    -21.12535
+],
+  "geometry": {"coordinates":[-175.32424,-21.12535],"type":"Point"}
+}

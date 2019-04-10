@@ -1,0 +1,65 @@
+{
+  "id": 1327351297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-174.34487,-19.78835,-174.34487,-19.78835",
+    "geom:latitude":-19.78835,
+    "geom:longitude":-174.34487,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Koulo",
+    "gn:country_code":"TO",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4032557,
+    "gn:latitude":-19.78835,
+    "gn:longitude":-174.34487,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"Koulo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4032557,
+        "wk:page":"Koulo"
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"b3486a6935ce3b580a9797ea969ce717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632455,
+            "locality_id":1327351297,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327351297,
+    "wof:lastmodified":1537574455,
+    "wof:name":"Koulo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -174.34487,
+    -19.78835,
+    -174.34487,
+    -19.78835
+],
+  "geometry": {"coordinates":[-174.34486999999999,-19.78835],"type":"Point"}
+}

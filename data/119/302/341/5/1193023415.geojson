@@ -1,0 +1,64 @@
+{
+  "id": 1193023415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-173.94213,-18.63322,-173.94213,-18.63322",
+    "geom:latitude":-18.63322,
+    "geom:longitude":-173.94213,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Faleono",
+    "gn:country_code":"TO",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4032702,
+    "gn:latitude":-18.63322,
+    "gn:longitude":-173.94213,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Faleono",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4032702
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"6db1844ec0ce9ef7a52fda40256cdfe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632455,
+            "locality_id":1193023415,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193023415,
+    "wof:lastmodified":1536370750,
+    "wof:name":"Faleono",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -173.94213,
+    -18.63322,
+    -173.94213,
+    -18.63322
+],
+  "geometry": {"coordinates":[-173.94212999999999,-18.63322],"type":"Point"}
+}

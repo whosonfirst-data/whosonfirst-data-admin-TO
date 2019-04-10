@@ -1,0 +1,68 @@
+{
+  "id": 1343670573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-175.24512,-21.17656,-175.24512,-21.17656",
+    "geom:latitude":-21.17656,
+    "geom:longitude":-175.24512,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tokomololo",
+    "gn:country_code":"TO",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4032288,
+    "gn:latitude":-21.17656,
+    "gn:longitude":-175.24512,
+    "gn:modification_date":"2017-09-04",
+    "gn:name":"Tokomololo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ton_x_preferred":[
+        "Tokomololo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632455,
+        85679003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4032288
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"600143b62628b9144ccc6a9a02c7e3be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632455,
+            "locality_id":1343670573,
+            "region_id":85679003
+        }
+    ],
+    "wof:id":1343670573,
+    "wof:lastmodified":1537706540,
+    "wof:name":"Tokomololo",
+    "wof:parent_id":85679003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -175.24512,
+    -21.17656,
+    -175.24512,
+    -21.17656
+],
+  "geometry": {"coordinates":[-175.24511999999999,-21.17656],"type":"Point"}
+}

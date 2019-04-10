@@ -1,0 +1,62 @@
+{
+  "id": 1209945391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-173.78242,-15.94755,-173.78242,-15.94755",
+    "geom:latitude":-15.94755,
+    "geom:longitude":-173.78242,
+    "gn:admin1_code":"NI",
+    "gn:asciiname":"Vaipoa",
+    "gn:country_code":"TO",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4032242,
+    "gn:latitude":-15.94755,
+    "gn:longitude":-173.78242,
+    "gn:modification_date":"2012-10-17",
+    "gn:name":"Vaipoa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4032242,
+        "wk:page":"Vaipoa"
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"c378548be36d06598af115acdd582b18",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1209945391,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209945391,
+    "wof:lastmodified":1537574454,
+    "wof:name":"Vaipoa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -173.78242,
+    -15.94755,
+    -173.78242,
+    -15.94755
+],
+  "geometry": {"coordinates":[-173.78242,-15.94755],"type":"Point"}
+}

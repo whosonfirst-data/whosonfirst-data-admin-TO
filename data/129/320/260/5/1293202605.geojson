@@ -1,0 +1,65 @@
+{
+  "id": 1293202605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-174.79858,-20.2573,-174.79858,-20.2573",
+    "geom:latitude":-20.2573,
+    "geom:longitude":-174.79858,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kotomaka",
+    "gn:country_code":"TO",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8528878,
+    "gn:latitude":-20.2573,
+    "gn:longitude":-174.79858,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Kotomaka",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632455,
+        85679015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8528878
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"dd034b7a76dab44768141ab2c8f2ee27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632455,
+            "locality_id":1293202605,
+            "region_id":85679015
+        }
+    ],
+    "wof:id":1293202605,
+    "wof:lastmodified":1536701042,
+    "wof:name":"Kotomaka",
+    "wof:parent_id":85679015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -174.79858000000004,
+    -20.2573,
+    -174.79858000000004,
+    -20.2573
+],
+  "geometry": {"coordinates":[-174.79858000000004,-20.2573],"type":"Point"}
+}

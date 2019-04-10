@@ -1,0 +1,65 @@
+{
+  "id": 1210020513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-175.62832,-15.56841,-175.62832,-15.56841",
+    "geom:latitude":-15.56841,
+    "geom:longitude":-175.62832,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"'Alele'uta",
+    "gn:country_code":"TO",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8527824,
+    "gn:latitude":-15.56841,
+    "gn:longitude":-175.62832,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"\u2019Alele\u2019uta",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632455,
+        85679011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8527824
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"fa6bd52b9e22402a24a48a333273a76c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632455,
+            "locality_id":1210020513,
+            "region_id":85679011
+        }
+    ],
+    "wof:id":1210020513,
+    "wof:lastmodified":1536393081,
+    "wof:name":"'Alele'uta",
+    "wof:parent_id":85679011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -175.62832,
+    -15.56841,
+    -175.62832,
+    -15.56841
+],
+  "geometry": {"coordinates":[-175.62832,-15.56841],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276474417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-174.96667,-21.36667,-174.96667,-21.36667",
+    "geom:latitude":-21.36667,
+    "geom:longitude":-174.96667,
+    "gn:admin1_code":"EU",
+    "gn:asciiname":"Tufurai",
+    "gn:country_code":"TO",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4032270,
+    "gn:latitude":-21.36667,
+    "gn:longitude":-174.96667,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Tufurai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tufavai",
+        "Tufu",
+        "Tufurai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632455,
+        85679021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4032270
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"23a206d3cc46e1ec1c06ca5a2c39788a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632455,
+            "locality_id":1276474417,
+            "region_id":85679021
+        }
+    ],
+    "wof:id":1276474417,
+    "wof:lastmodified":1537706540,
+    "wof:name":"Tufurai",
+    "wof:parent_id":85679021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -174.96667,
+    -21.36667000000001,
+    -174.96667,
+    -21.36667000000001
+],
+  "geometry": {"coordinates":[-174.96666999999999,-21.36667000000001],"type":"Point"}
+}

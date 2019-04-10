@@ -1,0 +1,70 @@
+{
+  "id": 1293204571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-174.34316,-19.78367,-174.34316,-19.78367",
+    "geom:latitude":-19.78367,
+    "geom:longitude":-174.34316,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Holopeka",
+    "gn:cc2":"TO",
+    "gn:country_code":"TO",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4032611,
+    "gn:latitude":-19.78367,
+    "gn:longitude":-174.34316,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"Holopeka",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Tongatapu",
+    "iso:country":"TO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Holobeka",
+        "Holopeka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4032611,
+        "wk:page":"Holopeka"
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"3ca693684d9493e9a6b4df1ee1c8ce5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632455,
+            "locality_id":1293204571,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293204571,
+    "wof:lastmodified":1537706542,
+    "wof:name":"Holopeka",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -174.34316,
+    -19.78367,
+    -174.34316,
+    -19.78367
+],
+  "geometry": {"coordinates":[-174.34316000000001,-19.78367],"type":"Point"}
+}
