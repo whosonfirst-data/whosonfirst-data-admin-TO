@@ -20,13 +20,7 @@
     "name:bul_x_preferred":[
         "\u041d\u0435\u044f\u0444\u0443"
     ],
-    "name:chi_x_preferred":[
-        "\u5167\u4e9e\u5bcc"
-    ],
     "name:deu_x_preferred":[
-        "Neiafu"
-    ],
-    "name:dut_x_preferred":[
         "Neiafu"
     ],
     "name:eng_x_preferred":[
@@ -36,12 +30,6 @@
         "Neiafu"
     ],
     "name:fra_x_preferred":[
-        "Neiafu"
-    ],
-    "name:fre_x_preferred":[
-        "Neiafu"
-    ],
-    "name:ger_x_preferred":[
         "Neiafu"
     ],
     "name:heb_x_preferred":[
@@ -58,6 +46,9 @@
     ],
     "name:lit_x_preferred":[
         "Nejafu"
+    ],
+    "name:nld_x_preferred":[
+        "Neiafu"
     ],
     "name:pol_x_preferred":[
         "Neiafu"
@@ -85,6 +76,9 @@
     ],
     "name:vep_x_preferred":[
         "Neiafu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5167\u4e9e\u5bcc"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tonga",
@@ -224,7 +218,7 @@
         }
     ],
     "wof:id":421204409,
-    "wof:lastmodified":1527716181,
+    "wof:lastmodified":1561767292,
     "wof:name":"Neiafu",
     "wof:parent_id":85679007,
     "wof:placetype":"locality",

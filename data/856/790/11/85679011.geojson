@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004786,
-    "geom:area_square_m":56977393.126972,
+    "geom:area_square_m":56977393.126953,
     "geom:bbox":"-175.686268684,-15.9767391912,-173.713531054,-15.559502863",
     "geom:latitude":-15.692069,
     "geom:longitude":-175.122028,
@@ -41,8 +41,8 @@
     "name:deu_x_preferred":[
         "Niuas"
     ],
-    "name:dut_x_preferred":[
-        "Niuas"
+    "name:ell_x_preferred":[
+        "\u039d\u03b9\u03bf\u03cd\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Niuas"
@@ -53,20 +53,8 @@
     "name:fra_x_preferred":[
         "Niuas"
     ],
-    "name:fre_x_preferred":[
-        "Niuas"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10d8\u10e3\u10d0\u10e1\u10d8\u10e1 \u10d9\u10e3\u10dc\u10eb\u10e3\u10da\u10d4\u10d1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Niuas"
-    ],
     "name:glg_x_preferred":[
         "Grupo Niuas"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b9\u03bf\u03cd\u03b1\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abf\u0a89\u0a86\u0ab8"
@@ -101,7 +89,10 @@
     "name:mar_x_preferred":[
         "\u0928\u093f\u090a\u0905\u0938\u0902"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Niuas"
+    ],
+    "name:nld_x_preferred":[
         "Niuas"
     ],
     "name:nob_x_preferred":[
@@ -273,7 +264,7 @@
         "ton",
         "eng"
     ],
-    "wof:lastmodified":1553814828,
+    "wof:lastmodified":1561767291,
     "wof:name":"Niuas",
     "wof:parent_id":85632455,
     "wof:placetype":"region",
