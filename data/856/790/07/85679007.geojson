@@ -25,17 +25,38 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0641\u0627\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ad\u09be\u09ad\u09be\u0989"
+    ],
     "name:bul_x_preferred":[
         "\u0412\u0430\u0432\u0430\u0443"
     ],
     "name:cat_x_preferred":[
         "Vava\u02bbu"
     ],
+    "name:cat_x_variant":[
+        "Vava'u"
+    ],
+    "name:ceb_x_preferred":[
+        "Vava\u2018u Island"
+    ],
+    "name:dan_x_preferred":[
+        "Vava\u02bbu"
+    ],
     "name:deu_x_preferred":[
         "Vava\u02bbu"
     ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03b2\u03ac\u03bf\u03c5"
+    ],
     "name:eng_x_preferred":[
         "Vava'eu"
+    ],
+    "name:eng_x_variant":[
+        "Vava\u02bbu"
     ],
     "name:fas_x_preferred":[
         "\u062c\u0632\u06cc\u0631\u0647 \u0648\u0627\u0648\u0627\u0626\u0648"
@@ -47,10 +68,17 @@
         "Vava\u02bbu"
     ],
     "name:fra_x_variant":[
-        "Vava\u2019u"
+        "Vava\u2019u",
+        "Vava'u"
     ],
     "name:glg_x_preferred":[
         "Grupo Vava'u"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab5\u0abe\u0ab5\u0abe\u0a89"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u093e\u0935\u093e\u0909"
     ],
     "name:ind_x_preferred":[
         "Vava'u"
@@ -58,11 +86,83 @@
     "name:ita_x_preferred":[
         "Vava'u"
     ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a1\u30f4\u30a1\u30a6\u8af8\u5cf6"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb5\u0cb5\u0cbe\u0cb5\u0cc1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d0\u10d5\u10d0\u10e3\u10e1 \u10d9\u10e3\u10dc\u10eb\u10e3\u10da\u10d4\u10d1\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\ubc14\uc6b0 \uc81c\ub3c4"
+    ],
+    "name:lav_x_preferred":[
+        "Vava\u02bbu"
+    ],
+    "name:lit_x_preferred":[
+        "Vava'u"
+    ],
+    "name:mar_x_preferred":[
+        "\u0935\u093e\u0935\u093e\u090a"
+    ],
+    "name:msa_x_preferred":[
+        "Vava\u02bbu"
+    ],
+    "name:nld_x_preferred":[
+        "Vava'u"
+    ],
+    "name:nob_x_preferred":[
+        "Vava'u"
+    ],
+    "name:pol_x_preferred":[
+        "Vava'u"
+    ],
+    "name:por_x_preferred":[
+        "Vava'u"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0432\u0430\u0443"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0dc0\u0dcf '\u0d8b"
+    ],
+    "name:slk_x_preferred":[
+        "Vava\u00b4u"
+    ],
     "name:spa_x_preferred":[
         "Vava'u"
     ],
+    "name:swe_x_preferred":[
+        "Vava'u"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0bbe\u0bb5\u0bbe \u02bb\u0baf\u0bc1"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c35\u0c3e\u0c35\u0c3e\u0c2f\u0c41"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e27\u0e32\u0e27\u0e32\u0e2d\u0e39"
+    ],
+    "name:tur_x_preferred":[
+        "Vava'u"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0432\u0430'\u0443"
+    ],
     "name:unk_x_variant":[
         "Vava\u2018u"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u0648\u0627\u0624"
+    ],
+    "name:vie_x_preferred":[
+        "Vava\u02bbu"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u74e6\u70cf\u7fa4\u5cf6"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TON",
@@ -186,7 +286,7 @@
         "ton",
         "eng"
     ],
-    "wof:lastmodified":1553550517,
+    "wof:lastmodified":1563336126,
     "wof:name":"Vava'u",
     "wof:parent_id":85632455,
     "wof:placetype":"region",

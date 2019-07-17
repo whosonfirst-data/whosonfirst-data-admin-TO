@@ -26,6 +26,9 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Eua"
+    ],
     "name:deu_x_preferred":[
         "\u2019Eua"
     ],
@@ -53,6 +56,9 @@
     ],
     "name:por_x_preferred":[
         "\u02bbEua"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0443\u0430"
     ],
     "name:spa_x_preferred":[
         "'Eua"
@@ -183,7 +189,7 @@
         "ton",
         "eng"
     ],
-    "wof:lastmodified":1553550517,
+    "wof:lastmodified":1563336126,
     "wof:name":"Eua",
     "wof:parent_id":85632455,
     "wof:placetype":"region",

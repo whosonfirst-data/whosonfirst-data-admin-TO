@@ -25,10 +25,22 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Tongatapu"
+    ],
     "name:eng_x_preferred":[
         "Tongatapu"
     ],
     "name:fra_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:nob_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:por_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:swe_x_preferred":[
         "Tongatapu"
     ],
     "name:unk_x_variant":[
@@ -155,7 +167,7 @@
         "ton",
         "eng"
     ],
-    "wof:lastmodified":1553550517,
+    "wof:lastmodified":1563336125,
     "wof:name":"Tongatapu",
     "wof:parent_id":85632455,
     "wof:placetype":"region",

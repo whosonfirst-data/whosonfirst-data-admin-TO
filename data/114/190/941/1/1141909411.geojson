@@ -60,6 +60,9 @@
     "name:cdo_x_preferred":[
         "Nuku'alofa"
     ],
+    "name:ceb_x_preferred":[
+        "Nuku\u2018alofa"
+    ],
     "name:ces_x_preferred":[
         "Nuku'alofa"
     ],
@@ -68,6 +71,9 @@
     ],
     "name:dan_x_preferred":[
         "Nukualofa"
+    ],
+    "name:dan_x_variant":[
+        "Nuku'alofa"
     ],
     "name:deu_x_preferred":[
         "Nuku\u2019alofa"
@@ -98,6 +104,9 @@
     ],
     "name:fin_x_preferred":[
         "Nuku'alofa"
+    ],
+    "name:fin_x_variant":[
+        "Nuku\u02bbalofa"
     ],
     "name:fra_x_preferred":[
         "Nuku'alofa"
@@ -150,11 +159,17 @@
     "name:ind_x_preferred":[
         "Nuku'alofa"
     ],
+    "name:ind_x_variant":[
+        "Nuku\u02bbalofa"
+    ],
     "name:isl_x_preferred":[
         "Nuku'alofa"
     ],
     "name:ita_x_preferred":[
         "Nuku'alofa"
+    ],
+    "name:ita_x_variant":[
+        "Nuku\u02bbalofa"
     ],
     "name:jpn_x_preferred":[
         "\u30cc\u30af\u30a2\u30ed\u30d5\u30a1"
@@ -176,6 +191,9 @@
     ],
     "name:lat_x_preferred":[
         "Nucualofa"
+    ],
+    "name:lat_x_variant":[
+        "Nukualofa"
     ],
     "name:lav_x_preferred":[
         "Nukualofa"
@@ -237,6 +255,9 @@
     "name:pol_x_preferred":[
         "Nuku'alofa"
     ],
+    "name:pol_x_variant":[
+        "Nuku\u02bbalofa"
+    ],
     "name:por_x_preferred":[
         "Nuku'alofa"
     ],
@@ -270,6 +291,9 @@
     "name:spa_x_preferred":[
         "Nuku'alofa"
     ],
+    "name:spa_x_variant":[
+        "Nukualofa"
+    ],
     "name:sqi_x_preferred":[
         "Nuku'alofa"
     ],
@@ -294,8 +318,14 @@
     "name:tgl_x_preferred":[
         "Nukualofa"
     ],
+    "name:tgl_x_variant":[
+        "Nuku\u02bbalofa"
+    ],
     "name:tha_x_preferred":[
         "\u0e19\u0e39\u0e01\u0e39\u0e2d\u0e30\u0e42\u0e25\u0e1f\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e19\u0e39\u0e01\u0e39\u0e2d\u0e32\u0e42\u0e25\u0e1f\u0e32"
     ],
     "name:ton_x_preferred":[
         "Nuku\u02bbalofa"
@@ -471,7 +501,7 @@
         }
     ],
     "wof:id":1141909411,
-    "wof:lastmodified":1561767293,
+    "wof:lastmodified":1563336149,
     "wof:name":"Nukualofa",
     "wof:parent_id":85679003,
     "wof:placetype":"locality",
