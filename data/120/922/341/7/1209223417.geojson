@@ -25,6 +25,12 @@
     "iso:country":"TO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Houma"
+    ],
+    "name:ton_x_preferred":[
+        "Houma"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632455
@@ -43,7 +49,7 @@
         }
     ],
     "wof:id":1209223417,
-    "wof:lastmodified":1537574455,
+    "wof:lastmodified":1564155553,
     "wof:name":"Houma",
     "wof:parent_id":85632455,
     "wof:placetype":"locality",

@@ -25,10 +25,355 @@
     "iso:country":"TO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:amh_x_preferred":[
+        "\u12a3\u1270\u122d"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0632\u0644\u0627\u0621"
+    ],
+    "name:arg_x_preferred":[
+        "Pisum sativum"
+    ],
+    "name:ast_x_preferred":[
+        "Pisum sativum"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u06a9\u06cc\u0646 \u0646\u0648\u062e\u0648\u062f\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "\u018fkin noxudu"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u0430\u0440\u043e\u0445 \u043f\u0430\u0441\u044f\u045e\u043d\u044b"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u099f\u09b0\u09b6\u09c1\u0981\u099f\u09bf"
+    ],
+    "name:bih_x_preferred":[
+        "\u0915\u0947\u0930\u093e\u0907"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f56\u0f7c\u0f51\u0f0b\u0f66\u0fb2\u0f53\u0f0d"
+    ],
+    "name:bos_x_preferred":[
+        "Gra\u0161ak"
+    ],
+    "name:bre_x_preferred":[
+        "Piz-bihan"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u0440\u0430\u0445"
+    ],
+    "name:cat_x_preferred":[
+        "P\u00e8sol"
+    ],
+    "name:cdo_x_preferred":[
+        "G\u012dng-d\u00e2u"
+    ],
+    "name:ceb_x_preferred":[
+        "Pisum sativum"
+    ],
+    "name:ces_x_preferred":[
+        "Hr\u00e1ch set\u00fd"
+    ],
+    "name:chv_x_preferred":[
+        "\u041f\u0103\u0440\u00e7\u0430"
+    ],
+    "name:ckb_x_preferred":[
+        "\u067e\u0627\u0642\u0644\u06d5"
+    ],
+    "name:cos_x_preferred":[
+        "Piseddu"
+    ],
+    "name:csb_x_preferred":[
+        "Zw\u00ebczajny groch"
+    ],
+    "name:cym_x_preferred":[
+        "Pysen"
+    ],
+    "name:dan_x_preferred":[
+        "Almindelig \u00e6rt"
+    ],
+    "name:deu_x_preferred":[
+        "Erbse"
+    ],
+    "name:div_x_preferred":[
+        "\u078a\u07ac\u0780\u07a8 \u0787\u07ae\u0781\u07b0"
+    ],
+    "name:dsb_x_preferred":[
+        "Zagrodny groch"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03b1\u03ba\u03ac\u03c2"
+    ],
+    "name:epo_x_preferred":[
+        "\u011cardena pizo"
+    ],
+    "name:est_x_preferred":[
+        "Harilik hernes"
+    ],
+    "name:eus_x_preferred":[
+        "Ilar"
+    ],
+    "name:ext_x_preferred":[
+        "Pisum sativum"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u062e\u0648\u062f \u0641\u0631\u0646\u06af\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Herne"
+    ],
+    "name:fra_x_preferred":[
+        "Pois cultiv\u00e9"
+    ],
+    "name:frr_x_preferred":[
+        "Eert"
+    ],
+    "name:gla_x_preferred":[
+        "Peasair"
+    ],
+    "name:gle_x_preferred":[
+        "Pis"
+    ],
+    "name:glg_x_preferred":[
+        "Ch\u00edcharo"
+    ],
+    "name:glv_x_preferred":[
+        "Pishyr"
+    ],
+    "name:grn_x_preferred":[
+        "Kumanda"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab5\u0a9f\u0abe\u0aa3\u0abe"
+    ],
+    "name:hat_x_preferred":[
+        "Pwa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e4\u05d5\u05e0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u091f\u0930"
+    ],
+    "name:hrv_x_preferred":[
+        "Povrtni gra\u0161ak"
+    ],
+    "name:hsb_x_preferred":[
+        "Zahrodny hroch"
+    ],
+    "name:hun_x_preferred":[
+        "Bors\u00f3"
+    ],
+    "name:hye_x_preferred":[
+        "\u0548\u056c\u0578\u057c"
+    ],
+    "name:ido_x_preferred":[
+        "Pizo"
+    ],
+    "name:ind_x_preferred":[
+        "Ercis"
+    ],
+    "name:isl_x_preferred":[
+        "Gr\u00e1erta"
+    ],
+    "name:ita_x_preferred":[
+        "Pisum sativum"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30f3\u30c9\u30a6"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0c9f\u0cbe\u0ca3\u0cbf"
+    ],
+    "name:kas_x_preferred":[
+        "\u0645\u064e\u0679\u064e\u0631"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u0441 \u0431\u04b1\u0440\u0448\u0430\u049b"
+    ],
+    "name:kin_x_preferred":[
+        "Ishaza"
+    ],
+    "name:koi_x_preferred":[
+        "\u0410\u043d\u044c\u043a\u044b\u0442\u0448"
+    ],
+    "name:kon_x_preferred":[
+        "Nkasa"
+    ],
+    "name:kur_x_preferred":[
+        "Baqil\u00ea xat\u00fbn\u00ee"
+    ],
+    "name:lat_x_preferred":[
+        "Pisum sativum"
+    ],
+    "name:lav_x_preferred":[
+        "S\u0113jas zir\u0146i"
+    ],
+    "name:lij_x_preferred":[
+        "Poiscio"
+    ],
+    "name:lin_x_preferred":[
+        "Wandu"
+    ],
+    "name:lit_x_preferred":[
+        "S\u0117jamasis \u017eirnis"
+    ],
+    "name:lmo_x_preferred":[
+        "Pisum sativum"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2a\u0d1f\u0d4d\u0d1f\u0d3e\u0d23\u0d3f\u0d2a\u0d4d\u0d2a\u0d2f\u0d7c"
+    ],
+    "name:mar_x_preferred":[
+        "\u0935\u093e\u091f\u093e\u0923\u093e"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0421\u043d\u0430\u0432"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u0440\u0430\u0448\u043e\u043a"
+    ],
+    "name:mon_x_preferred":[
+        "\u0412\u0430\u043d\u0434\u0443\u0439"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041f\u044b\u0440\u0441\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Kacang pea"
+    ],
+    "name:nap_x_preferred":[
+        "Pesiello"
+    ],
+    "name:nep_x_preferred":[
+        "\u0915\u0947\u0930\u093e\u0909"
+    ],
+    "name:nld_x_preferred":[
+        "Erwt"
+    ],
+    "name:nno_x_preferred":[
+        "Erter"
+    ],
+    "name:oci_x_preferred":[
+        "Pese"
+    ],
+    "name:oss_x_preferred":[
+        "\u0422\u044b\u043c\u0431\u044b\u043b\u0445\u044a\u00e6\u0434\u0443\u0440"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2e\u0a1f\u0a30"
+    ],
+    "name:pdc_x_preferred":[
+        "Aerbs"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0645\u0679\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Groch zwyczajny"
+    ],
+    "name:por_x_preferred":[
+        "Ervilha"
+    ],
+    "name:que_x_preferred":[
+        "Allwirha"
+    ],
+    "name:ron_x_preferred":[
+        "Maz\u0103re"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043e\u0445 \u043f\u043e\u0441\u0435\u0432\u043d\u043e\u0439"
+    ],
+    "name:san_x_preferred":[
+        "\u0939\u0930\u0947\u0923\u0941\u0903"
+    ],
+    "name:scn_x_preferred":[
+        "Pisedda"
+    ],
+    "name:sco_x_preferred":[
+        "Pease"
+    ],
+    "name:slk_x_preferred":[
+        "Hrach siaty"
+    ],
+    "name:slv_x_preferred":[
+        "Grah"
+    ],
+    "name:sme_x_preferred":[
+        "Earta"
+    ],
+    "name:snd_x_preferred":[
+        "\u0645\u067d\u0631"
+    ],
+    "name:spa_x_preferred":[
+        "Pisum sativum"
+    ],
+    "name:sqi_x_preferred":[
+        "Bizelja"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u0430\u0448\u0430\u043a"
+    ],
+    "name:stq_x_preferred":[
+        "Aate"
+    ],
+    "name:sun_x_preferred":[
+        "Kacang polong"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c4rt"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0ba3\u0bbf"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u043e\u0440\u0447\u0430\u043a"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c20\u0c3e\u0c28\u0c40"
+    ],
+    "name:tgl_x_preferred":[
+        "Tsitsaro"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e16\u0e31\u0e48\u0e27\u0e25\u0e31\u0e19\u0e40\u0e15\u0e32"
+    ],
+    "name:ton_x_preferred":[
+        "P\u012b"
+    ],
+    "name:tur_x_preferred":[
+        "Bezelye"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u043e\u0445 \u043f\u043e\u0441\u0456\u0432\u043d\u0438\u0439"
+    ],
     "name:und_x_variant":[
         "Bea",
         "Paa",
         "Pea"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0679\u0631"
+    ],
+    "name:vec_x_preferred":[
+        "Bixo"
+    ],
+    "name:vep_x_preferred":[
+        "J\u00e4rgeline herneh"
+    ],
+    "name:vls_x_preferred":[
+        "Errewete"
+    ],
+    "name:war_x_preferred":[
+        "Chicharo"
+    ],
+    "name:zea_x_preferred":[
+        "Erten"
+    ],
+    "name:zha_x_preferred":[
+        "Duhlanhdouq"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +396,7 @@
         }
     ],
     "wof:id":1293892241,
-    "wof:lastmodified":1537706541,
+    "wof:lastmodified":1564155550,
     "wof:name":"Pea",
     "wof:parent_id":85679003,
     "wof:placetype":"locality",

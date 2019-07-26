@@ -25,6 +25,33 @@
     "iso:country":"TO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Lakepa"
+    ],
+    "name:fra_x_preferred":[
+        "Lakepa"
+    ],
+    "name:hun_x_preferred":[
+        "Lakepa"
+    ],
+    "name:ita_x_preferred":[
+        "Lakepa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30b1\u30d1"
+    ],
+    "name:nld_x_preferred":[
+        "Lakepa"
+    ],
+    "name:pol_x_preferred":[
+        "Lakepa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043a\u0435\u043f\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Lakepa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -46,7 +73,7 @@
         }
     ],
     "wof:id":1259687359,
-    "wof:lastmodified":1537058824,
+    "wof:lastmodified":1564155563,
     "wof:name":"Lakepa",
     "wof:parent_id":85679003,
     "wof:placetype":"locality",
