@@ -25,6 +25,24 @@
     "iso:country":"TO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Kolovai"
+    ],
+    "name:por_x_preferred":[
+        "Kolovai"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u0432\u0430\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Kolovai"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e01\u0e42\u0e25\u0e44\u0e27"
+    ],
+    "name:ton_x_preferred":[
+        "Kolovai"
+    ],
     "name:und_x_variant":[
         "Kolevai",
         "Kolovai"
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1226345537,
-    "wof:lastmodified":1537706541,
+    "wof:lastmodified":1564155564,
     "wof:name":"Kolovai",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"TO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Ahau"
+    ],
+    "name:ita_x_preferred":[
+        "Ahau"
+    ],
+    "name:pol_x_preferred":[
+        "Ahau"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -46,7 +55,7 @@
         }
     ],
     "wof:id":1343471921,
-    "wof:lastmodified":1536729885,
+    "wof:lastmodified":1564155545,
     "wof:name":"Ahau",
     "wof:parent_id":85679003,
     "wof:placetype":"locality",
