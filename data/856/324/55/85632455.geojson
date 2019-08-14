@@ -15,6 +15,9 @@
     "itu:country_code":[
         "676"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TO"
+    ],
     "lbl:latitude":-21.230852,
     "lbl:longitude":-175.14127,
     "mps:latitude":-21.230852,
@@ -894,9 +897,6 @@
         }
     ],
     "wof:id":85632455,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "ton",
         "eng"
@@ -905,7 +905,7 @@
         "ton",
         "eng"
     ],
-    "wof:lastmodified":1563336129,
+    "wof:lastmodified":1565737332,
     "wof:name":"Tonga",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

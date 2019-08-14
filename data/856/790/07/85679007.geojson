@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "division"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VA"
+    ],
     "lbl:latitude":-18.603326,
     "lbl:longitude":-173.983621,
     "mps:latitude":-18.603326,
@@ -275,9 +278,6 @@
         }
     ],
     "wof:id":85679007,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "ton",
         "eng"
@@ -286,7 +286,7 @@
         "ton",
         "eng"
     ],
-    "wof:lastmodified":1563336126,
+    "wof:lastmodified":1565737332,
     "wof:name":"Vava'u",
     "wof:parent_id":85632455,
     "wof:placetype":"region",

@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "division"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "EU"
+    ],
     "lbl:latitude":-21.368681,
     "lbl:longitude":-174.943647,
     "mps:latitude":-21.368681,
@@ -189,7 +192,7 @@
         "ton",
         "eng"
     ],
-    "wof:lastmodified":1563336126,
+    "wof:lastmodified":1565737332,
     "wof:name":"Eua",
     "wof:parent_id":85632455,
     "wof:placetype":"region",

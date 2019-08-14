@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "division"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NI"
+    ],
     "lbl:latitude":-15.593237,
     "lbl:longitude":-175.64955,
     "mps:latitude":-15.593237,
@@ -270,7 +273,7 @@
         "ton",
         "eng"
     ],
-    "wof:lastmodified":1563336125,
+    "wof:lastmodified":1565737332,
     "wof:name":"Niuas",
     "wof:parent_id":85632455,
     "wof:placetype":"region",

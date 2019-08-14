@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "division"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HA"
+    ],
     "lbl:latitude":-19.752103,
     "lbl:longitude":-175.07175,
     "mps:latitude":-19.752103,
@@ -270,9 +273,6 @@
         }
     ],
     "wof:id":85679015,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "ton",
         "eng"
@@ -281,7 +281,7 @@
         "ton",
         "eng"
     ],
-    "wof:lastmodified":1563336126,
+    "wof:lastmodified":1565737332,
     "wof:name":"Ha'apai",
     "wof:parent_id":85632455,
     "wof:placetype":"region",
