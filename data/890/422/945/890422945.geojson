@@ -11,10 +11,14 @@
     "geom:longitude":-173.79616,
     "gn:country":"TO",
     "gn:fcode":"PPL",
-    "gn:pop":815,
+    "gn:population":815,
     "iso:country":"TO",
+    "lbl:bbox":"-173.81616,-15.9744,-173.77616,-15.9344",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Hihifo"
     ],
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":4032619,
         "gp:id":12517849,
-        "qs:id":585986,
+        "qs_pg:id":585986,
         "wd:id":"Q2563164",
         "wk:page":"Hihifo"
     },
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":890422945,
-    "wof:lastmodified":1563336141,
+    "wof:lastmodified":1566581544,
     "wof:name":"Hihifo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

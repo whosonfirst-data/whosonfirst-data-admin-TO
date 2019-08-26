@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Tongatapu",
     "iso:country":"TO",
+    "lbl:bbox":"-175.25502,-21.19178,-175.21502,-21.15178",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:amh_x_preferred":[
         "\u12a3\u1270\u122d"
     ],
@@ -396,7 +400,7 @@
         }
     ],
     "wof:id":1293892241,
-    "wof:lastmodified":1564155550,
+    "wof:lastmodified":1566581542,
     "wof:name":"Pea",
     "wof:parent_id":85679003,
     "wof:placetype":"locality",

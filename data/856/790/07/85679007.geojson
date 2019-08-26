@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-18.603326,
     "lbl:longitude":-173.983621,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-18.603326,
     "mps:longitude":-173.983621,
     "mz:hierarchy_label":1,
@@ -155,7 +156,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0432\u0430'\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vava\u2018u"
     ],
     "name:urd_x_preferred":[
@@ -236,9 +237,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-11-30",
+    "src:population_date":"2011-11-30",
     "statoids:area_km":"119",
     "statoids:area_mi":"46",
     "statoids:as_of_date":"2011-11-30",
@@ -264,7 +265,7 @@
         "gp:id":2347211,
         "hasc:id":"TO.VA",
         "iso:id":"TO-05",
-        "qs:id":239517,
+        "qs_pg:id":239517,
         "unlc:id":"TO-05",
         "wd:id":"Q859666"
     },
@@ -286,11 +287,10 @@
         "ton",
         "eng"
     ],
-    "wof:lastmodified":1565737332,
+    "wof:lastmodified":1566581541,
     "wof:name":"Vava'u",
     "wof:parent_id":85632455,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"division",
     "wof:population":14922,
     "wof:population_rank":6,

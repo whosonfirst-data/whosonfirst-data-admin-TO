@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Tongatapu",
     "iso:country":"TO",
+    "lbl:bbox":"-173.97709,-18.65848,-173.93709,-18.61848",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1326637311,
-    "wof:lastmodified":1536831415,
+    "wof:lastmodified":1566581540,
     "wof:name":"Utui",
     "wof:parent_id":85679007,
     "wof:placetype":"locality",

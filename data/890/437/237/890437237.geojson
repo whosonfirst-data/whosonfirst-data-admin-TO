@@ -11,10 +11,14 @@
     "geom:longitude":-174.95,
     "gn:country":"TO",
     "gn:fcode":"PPL",
-    "gn:pop":1241,
+    "gn:population":1241,
     "iso:country":"TO",
+    "lbl:bbox":"-174.97,-21.35333,-174.93,-21.31333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"\u2018Ohonua",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -27,7 +31,7 @@
     "wof:concordances":{
         "gn:id":4032384,
         "gp:id":12517847,
-        "qs:id":1047690
+        "qs_pg:id":1047690
     },
     "wof:country":"TO",
     "wof:created":1469052143,
@@ -39,7 +43,7 @@
         }
     ],
     "wof:id":890437237,
-    "wof:lastmodified":1505343558,
+    "wof:lastmodified":1566581544,
     "wof:name":"\u2018Ohonua",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

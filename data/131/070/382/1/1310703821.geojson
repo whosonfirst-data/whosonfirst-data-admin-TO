@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Tongatapu",
     "iso:country":"TO",
+    "lbl:bbox":"-174.05664,-18.72705,-174.01664,-18.68705",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Kapa"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1310703821,
-    "wof:lastmodified":1564155557,
+    "wof:lastmodified":1566581544,
     "wof:name":"Kapa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

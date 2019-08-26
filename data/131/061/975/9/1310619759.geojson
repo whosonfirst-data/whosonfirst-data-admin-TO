@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Tongatapu",
     "iso:country":"TO",
+    "lbl:bbox":"-173.97314,-18.66864,-173.93314,-18.62864",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "'Okoa"
     ],
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1310619759,
-    "wof:lastmodified":1537706542,
+    "wof:lastmodified":1566581544,
     "wof:name":"Okoa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
