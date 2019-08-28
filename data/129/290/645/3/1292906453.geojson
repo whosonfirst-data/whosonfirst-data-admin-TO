@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Tongatapu",
     "iso:country":"TO",
+    "lbl:bbox":"-175.35474,-21.1007,-175.31474,-21.0607",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Kanokupolu"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1292906453,
-    "wof:lastmodified":1564155548,
+    "wof:lastmodified":1566581542,
     "wof:name":"Kanokupolu",
     "wof:parent_id":85679003,
     "wof:placetype":"locality",
