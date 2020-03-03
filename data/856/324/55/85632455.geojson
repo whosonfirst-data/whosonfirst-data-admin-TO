@@ -833,7 +833,6 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "naturalearth",
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -908,7 +907,7 @@
         "ton",
         "eng"
     ],
-    "wof:lastmodified":1582318521,
+    "wof:lastmodified":1583205166,
     "wof:name":"Tonga",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
