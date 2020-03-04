@@ -887,6 +887,10 @@
     },
     "wof:country":"TO",
     "wof:country_alpha3":"TON",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth"
+    ],
     "wof:geomhash":"0a89e3ec3f09b7e5d7212c02698f5237",
     "wof:hierarchy":[
         {
@@ -903,7 +907,7 @@
         "ton",
         "eng"
     ],
-    "wof:lastmodified":1566581541,
+    "wof:lastmodified":1583205166,
     "wof:name":"Tonga",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
