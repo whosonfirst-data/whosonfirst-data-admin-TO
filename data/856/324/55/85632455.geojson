@@ -864,9 +864,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Tonga",
-        "digitalenvoy:country_code":[
-            776
-        ],
+        "digitalenvoy:country_code":776,
         "fb:id":"en.tonga",
         "fifa:id":"TGA",
         "fips:code":"TN",
@@ -910,7 +908,7 @@
         "ton",
         "eng"
     ],
-    "wof:lastmodified":1583529233,
+    "wof:lastmodified":1583797442,
     "wof:name":"Tonga",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
