@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-175.220564478,-21.1385123567,-175.220564478,-21.1385123567",
+    "geom:bbox":"-175.220564,-21.138512,-175.220564,-21.138512",
     "geom:latitude":-21.138512,
     "geom:longitude":-175.220564,
     "gn:country":"TO",
@@ -486,7 +486,9 @@
         85679003
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632455,
+    "wof:capital_of":[
+        85632455
+    ],
     "wof:concordances":{
         "gn:id":4032402,
         "qs_pg:id":1047684,
@@ -494,7 +496,7 @@
     },
     "wof:country":"TO",
     "wof:created":1499131075,
-    "wof:geomhash":"c63ad70e5943fdeb82a60761b7b89fef",
+    "wof:geomhash":"bed04f2877919f64b181e396daf39604",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -504,7 +506,7 @@
         }
     ],
     "wof:id":1141909411,
-    "wof:lastmodified":1566581546,
+    "wof:lastmodified":1607390901,
     "wof:name":"Nukualofa",
     "wof:parent_id":85679003,
     "wof:placetype":"locality",
@@ -518,10 +520,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -175.22056447761656,
-    -21.13851235669864,
-    -175.22056447761656,
-    -21.13851235669864
+    -175.220564,
+    -21.138512,
+    -175.220564,
+    -21.138512
 ],
-  "geometry": {"coordinates":[-175.22056447761656,-21.13851235669864],"type":"Point"}
+  "geometry": {"coordinates":[-175.220564,-21.138512],"type":"Point"}
 }
