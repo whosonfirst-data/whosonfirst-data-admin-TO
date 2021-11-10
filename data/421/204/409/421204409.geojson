@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u0627\u0641\u0648"
     ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09c7\u0987\u09df\u09be\u09ab\u09c1"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u0435\u044f\u0444\u0443"
     ],
@@ -29,8 +32,14 @@
     "name:deu_x_preferred":[
         "Neiafu"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b5\u03ca\u03b1\u03c6\u03bf\u03cd"
+    ],
     "name:eng_x_preferred":[
         "Neiafu"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0627\u0641\u0648"
     ],
     "name:fin_x_preferred":[
         "Neiafu"
@@ -41,11 +50,23 @@
     "name:heb_x_preferred":[
         "\u05e0\u05d9\u05d5\u05d0\u05e4\u05d5"
     ],
+    "name:hin_x_preferred":[
+        "\u0928\u0940\u092b\u093c\u0941"
+    ],
+    "name:hun_x_preferred":[
+        "Neiafu"
+    ],
+    "name:ind_x_preferred":[
+        "Neiafu"
+    ],
     "name:ita_x_preferred":[
         "Neiafu"
     ],
     "name:jpn_x_preferred":[
         "\u30cd\u30a4\u30a2\u30d5"
+    ],
+    "name:kor_x_preferred":[
+        "\ub124\uc774\uc544\ud478"
     ],
     "name:lat_x_preferred":[
         "Neiafu"
@@ -65,6 +86,9 @@
     "name:rus_x_preferred":[
         "\u041d\u0435\u0438\u0430\u0444\u0443"
     ],
+    "name:spa_x_preferred":[
+        "Neiafu"
+    ],
     "name:swe_x_preferred":[
         "Neiafu"
     ],
@@ -72,6 +96,9 @@
         "\u0e40\u0e19\u0e2d\u0e34\u0e2d\u0e32\u0e1f\u0e39"
     ],
     "name:ton_x_preferred":[
+        "Neiafu"
+    ],
+    "name:tur_x_preferred":[
         "Neiafu"
     ],
     "name:ukr_x_preferred":[
@@ -84,6 +111,9 @@
         "\u0646\u0626\u06cc\u0627\u0641\u0648"
     ],
     "name:vep_x_preferred":[
+        "Neiafu"
+    ],
+    "name:vie_x_preferred":[
         "Neiafu"
     ],
     "name:zho_x_preferred":[
@@ -227,7 +257,7 @@
         }
     ],
     "wof:id":421204409,
-    "wof:lastmodified":1566581544,
+    "wof:lastmodified":1636495629,
     "wof:name":"Neiafu",
     "wof:parent_id":85679007,
     "wof:placetype":"locality",

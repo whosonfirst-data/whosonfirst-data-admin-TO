@@ -51,9 +51,15 @@
         "Houma"
     ],
     "name:rus_x_preferred":[
+        "\u0425\u0443\u043c\u0430"
+    ],
+    "name:rus_x_variant":[
         "\u0425\u043e\u0443\u043c\u0430"
     ],
     "name:swe_x_preferred":[
+        "Houma"
+    ],
+    "name:vie_x_preferred":[
         "Houma"
     ],
     "src:geom":"geonames",
@@ -66,7 +72,7 @@
         "gn:id":8528761
     },
     "wof:country":"TO",
-    "wof:geomhash":"96624977f7403fc9ee3d97db7ea1db66",
+    "wof:geomhash":"6e26652c7a9f11c82ea727c6933bd659",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":1276454761,
-    "wof:lastmodified":1566581542,
+    "wof:lastmodified":1636495629,
     "wof:name":"Houma",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -86,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -173.94508000000005,
+    -173.94508,
     -18.63073,
-    -173.94508000000005,
+    -173.94508,
     -18.63073
 ],
-  "geometry": {"coordinates":[-173.94508000000005,-18.63073],"type":"Point"}
+  "geometry": {"coordinates":[-173.94507999999999,-18.63073],"type":"Point"}
 }
