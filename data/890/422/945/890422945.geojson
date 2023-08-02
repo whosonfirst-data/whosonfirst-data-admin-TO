@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Hihifo"
     ],
+    "name:deu_x_preferred":[
+        "Hihifo"
+    ],
     "name:eng_x_preferred":[
         "Hihifo"
     ],
@@ -42,6 +45,12 @@
     ],
     "name:rus_x_preferred":[
         "\u0425\u0438\u0445\u0438\u0444\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Hihifo"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2e\u0e35\u0e2e\u0e35\u0e42\u0e1f"
     ],
     "name:zho_x_preferred":[
         "\u5e0c\u5e0c\u798f"
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":890422945,
-    "wof:lastmodified":1566581544,
+    "wof:lastmodified":1690874882,
     "wof:name":"Hihifo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

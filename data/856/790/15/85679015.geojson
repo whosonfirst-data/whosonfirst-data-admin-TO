@@ -41,6 +41,9 @@
     "name:cat_x_variant":[
         "Ha'apai"
     ],
+    "name:ceb_x_preferred":[
+        "Ha\u2018apai Group"
+    ],
     "name:dan_x_preferred":[
         "Ha\u02bbapai"
     ],
@@ -71,6 +74,9 @@
     "name:fra_x_variant":[
         "Ha\u2019apai",
         "Ha'apai"
+    ],
+    "name:frr_x_preferred":[
+        "Ha\u02bbapai"
     ],
     "name:glg_x_preferred":[
         "Ha'apai"
@@ -287,7 +293,7 @@
         "ton",
         "eng"
     ],
-    "wof:lastmodified":1636495629,
+    "wof:lastmodified":1690874881,
     "wof:name":"Ha'apai",
     "wof:parent_id":85632455,
     "wof:placetype":"region",
