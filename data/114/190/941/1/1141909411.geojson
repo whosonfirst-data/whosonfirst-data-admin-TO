@@ -33,17 +33,32 @@
     "name:ara_x_preferred":[
         "\u0646\u0648\u0643\u0648 \u0623\u0644\u0648\u0641\u0627"
     ],
+    "name:ary_x_preferred":[
+        "\u0646\u0648\u0643\u0648 \u0623\u0644\u0648\u0641\u0627"
+    ],
     "name:ast_x_preferred":[
+        "Nuku'alofa"
+    ],
+    "name:avk_x_preferred":[
         "Nuku'alofa"
     ],
     "name:aze_x_preferred":[
         "Nukualofa"
     ],
+    "name:ban_x_preferred":[
+        "Nuku\u02bbalofa"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041d\u0443\u043a\u0443\u0430\u043b\u043e\u0444\u0430"
     ],
+    "name:bel_x_variant":[
+        "\u041d\u0443\u043a\u0443\u0430\u043b\u043e\u0444\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09c1\u0995\u09c1\u09af\u09bc\u09be\u09b2\u09cb\u09ab\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u09a8\u09c1\u0995\u09c1'\u0986\u09b2\u09cb\u09ab\u09be"
     ],
     "name:bod_x_preferred":[
         "\u0f53\u0f74\u0f0b\u0f41\u0f74\u0f0b\u0f68\u0f0b\u0f63\u0f7c\u0f0b\u0f67\u0fa5\u0f0d"
@@ -111,6 +126,9 @@
     "name:fin_x_variant":[
         "Nuku\u02bbalofa"
     ],
+    "name:fit_x_preferred":[
+        "Nuku\u02bbalofa"
+    ],
     "name:fra_x_preferred":[
         "Nuku'alofa"
     ],
@@ -121,6 +139,9 @@
         "Nuku'alofa"
     ],
     "name:gla_x_preferred":[
+        "Nuku'alofa"
+    ],
+    "name:gle_x_preferred":[
         "Nuku'alofa"
     ],
     "name:glg_x_preferred":[
@@ -210,6 +231,9 @@
     "name:ltz_x_preferred":[
         "Nuku'alofa"
     ],
+    "name:mal_x_preferred":[
+        "\u0d28\u0d41\u0d15\u0d4d\u0d15\u0d41\u0d35\u0d3e\u0d32\u0d4b\u0d2b"
+    ],
     "name:mar_x_preferred":[
         "\u0928\u0941\u0915\u0941-\u0905\u0932\u094b\u092b\u093e"
     ],
@@ -219,6 +243,9 @@
     "name:mon_x_preferred":[
         "\u041d\u0443\u043a\u0443\u0430\u043b\u043e\u0444\u0430"
     ],
+    "name:mri_x_preferred":[
+        "Nukuaroha"
+    ],
     "name:mrj_x_preferred":[
         "\u041d\u0443\u043a\u0443\u0430\u043b\u043e\u0444\u0430"
     ],
@@ -227,6 +254,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0646\u0648\u06a9\u0648\u0622\u0644\u0648\u0641\u0627"
+    ],
+    "name:nah_x_preferred":[
+        "Nukualofa"
     ],
     "name:nan_x_preferred":[
         "Nuku'alofa"
@@ -255,6 +285,9 @@
     "name:pms_x_preferred":[
         "Nuku'alofa"
     ],
+    "name:pnb_x_preferred":[
+        "\u0646\u0648\u06a9\u0648 \u0627\u0644\u0648\u0641\u0627"
+    ],
     "name:pol_x_preferred":[
         "Nuku'alofa"
     ],
@@ -263,6 +296,9 @@
     ],
     "name:por_x_preferred":[
         "Nuku'alofa"
+    ],
+    "name:pus_x_preferred":[
+        "\u0646\u0648\u06a9\u0648\u0627\u0644\u0648\u0641\u0627"
     ],
     "name:ron_x_preferred":[
         "Nuku'alofa"
@@ -288,6 +324,15 @@
     "name:sme_x_preferred":[
         "Nuku'alofa"
     ],
+    "name:sme_x_variant":[
+        "Nuku\u02bbalofa"
+    ],
+    "name:smn_x_preferred":[
+        "Nuku\u02bbalofa"
+    ],
+    "name:sms_x_preferred":[
+        "Nuku\u02bbalofa"
+    ],
     "name:sna_x_preferred":[
         "Nuku\u02bbalofa"
     ],
@@ -298,6 +343,9 @@
         "Nukualofa"
     ],
     "name:sqi_x_preferred":[
+        "Nuku'alofa"
+    ],
+    "name:srd_x_preferred":[
         "Nuku'alofa"
     ],
     "name:srp_x_preferred":[
@@ -317,6 +365,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c28\u0c41\u0c15\u0c41\u0c35\u0c3e\u0c32\u0c4b\u0c2b\u0c3e"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041d\u0443\u043a\u0443\u0430\u043b\u043e\u0444\u0430"
     ],
     "name:tgl_x_preferred":[
         "Nukualofa"
@@ -359,6 +410,12 @@
     ],
     "name:war_x_preferred":[
         "Nuku\u02bbalofa"
+    ],
+    "name:wuu_x_preferred":[
+        "\u52aa\u5e93\u963f\u6d1b\u6cd5"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10dc\u10e3\u10d9\u10e3\u10d0\u10da\u10dd\u10e4\u10d0"
     ],
     "name:yor_x_preferred":[
         "Nuku\u02bbalofa"
@@ -506,7 +563,7 @@
         }
     ],
     "wof:id":1141909411,
-    "wof:lastmodified":1607390901,
+    "wof:lastmodified":1690874883,
     "wof:name":"Nukualofa",
     "wof:parent_id":85679003,
     "wof:placetype":"locality",

@@ -54,10 +54,19 @@
     "name:eng_x_preferred":[
         "Niuas"
     ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u0627\u06cc\u0631 \u0646\u06cc\u0648\u0622"
+    ],
     "name:fin_x_preferred":[
         "Niuas"
     ],
     "name:fra_x_preferred":[
+        "Niuas"
+    ],
+    "name:fra_x_variant":[
+        "\u00eeles Niua"
+    ],
+    "name:frr_x_preferred":[
         "Niuas"
     ],
     "name:glg_x_preferred":[
@@ -80,6 +89,9 @@
     ],
     "name:ita_x_preferred":[
         "Niuas"
+    ],
+    "name:ita_x_variant":[
+        "Isole Niua"
     ],
     "name:jpn_x_preferred":[
         "\u30cb\u30a6\u30a2\u30b9\u8af8\u5cf6"
@@ -279,7 +291,7 @@
         "ton",
         "eng"
     ],
-    "wof:lastmodified":1636495628,
+    "wof:lastmodified":1690874880,
     "wof:name":"Niuas",
     "wof:parent_id":85632455,
     "wof:placetype":"region",

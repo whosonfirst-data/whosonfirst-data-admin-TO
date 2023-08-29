@@ -39,6 +39,9 @@
     "name:deu_x_preferred":[
         "\u2019Eua"
     ],
+    "name:deu_x_variant":[
+        "\u02bbEua"
+    ],
     "name:eng_x_preferred":[
         "Eua"
     ],
@@ -202,7 +205,7 @@
         "ton",
         "eng"
     ],
-    "wof:lastmodified":1636495628,
+    "wof:lastmodified":1690874881,
     "wof:name":"Eua",
     "wof:parent_id":85632455,
     "wof:placetype":"region",

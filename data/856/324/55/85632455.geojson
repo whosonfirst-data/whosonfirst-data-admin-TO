@@ -28,6 +28,9 @@
     "mz:is_current":1,
     "mz:max_zoom":9.0,
     "mz:min_zoom":4.0,
+    "name:abk_x_preferred":[
+        "\u0422\u043e\u043d\u0433\u0430"
+    ],
     "name:ace_x_preferred":[
         "Tonga"
     ],
@@ -42,6 +45,15 @@
     ],
     "name:amh_x_preferred":[
         "\u1276\u1295\u130b"
+    ],
+    "name:ami_x_preferred":[
+        "Tonga"
+    ],
+    "name:ang_x_preferred":[
+        "Tonga"
+    ],
+    "name:anp_x_preferred":[
+        "\u091f\u094b\u0902\u0917\u093e"
     ],
     "name:ara_x_preferred":[
         "\u062a\u0648\u0646\u063a\u0627"
@@ -59,6 +71,9 @@
         "\u062a\u0648\u0646\u062c\u0627"
     ],
     "name:ast_x_preferred":[
+        "Tonga"
+    ],
+    "name:avk_x_preferred":[
         "Tonga"
     ],
     "name:azb_x_preferred":[
@@ -87,6 +102,9 @@
     ],
     "name:ben_x_preferred":[
         "\u099f\u09cb\u0999\u09cd\u0997\u09be"
+    ],
+    "name:bis_x_preferred":[
+        "Tonga"
     ],
     "name:bjn_x_preferred":[
         "Tonga"
@@ -124,6 +142,9 @@
     "name:che_x_preferred":[
         "\u0422\u043e\u043d\u0433\u0430"
     ],
+    "name:chr_x_preferred":[
+        "\u13d4\u13c2\u13aa"
+    ],
     "name:chu_x_preferred":[
         "\u0422\u043e\u043d\u0433\u0430"
     ],
@@ -135,6 +156,9 @@
     ],
     "name:cor_x_preferred":[
         "Tonga"
+    ],
+    "name:cos_x_preferred":[
+        "Tongu"
     ],
     "name:crh_x_preferred":[
         "Tonga"
@@ -228,6 +252,9 @@
     "name:ful_x_preferred":[
         "Tonngaa"
     ],
+    "name:ful_x_variant":[
+        "Tonnga"
+    ],
     "name:gag_x_preferred":[
         "Tonga"
     ],
@@ -256,6 +283,15 @@
     "name:gom_x_preferred":[
         "\u091f\u094b\u0902\u0917\u093e"
     ],
+    "name:gpe_x_preferred":[
+        "Tonga"
+    ],
+    "name:grc_x_preferred":[
+        "\u03a4\u03cc\u03b3\u03b3\u03b1"
+    ],
+    "name:grn_x_preferred":[
+        "T\u00f3nga"
+    ],
     "name:gsw_x_preferred":[
         "Tonga"
     ],
@@ -270,6 +306,9 @@
     ],
     "name:hau_x_preferred":[
         "Tanga"
+    ],
+    "name:hau_x_variant":[
+        "Tonga"
     ],
     "name:hbs_x_preferred":[
         "Tonga"
@@ -415,6 +454,9 @@
     "name:lit_x_variant":[
         "Tong\u0173"
     ],
+    "name:lld_x_preferred":[
+        "Tonga"
+    ],
     "name:lmo_x_preferred":[
         "Tonga"
     ],
@@ -439,6 +481,9 @@
     "name:mar_x_preferred":[
         "\u091f\u094b\u0902\u0917\u093e"
     ],
+    "name:mhr_x_preferred":[
+        "\u0422\u043e\u043d\u0433\u0430"
+    ],
     "name:mkd_x_preferred":[
         "\u0422\u043e\u043d\u0433\u0430"
     ],
@@ -448,11 +493,20 @@
     "name:mlg_x_preferred":[
         "Tong\u00e0"
     ],
+    "name:mlg_x_variant":[
+        "T\u00f4nga"
+    ],
     "name:mlt_x_preferred":[
         "Tonga"
     ],
+    "name:mni_x_preferred":[
+        "\uabc7\uabe3\uabe1\uabd2\uabe5"
+    ],
     "name:mon_x_preferred":[
         "\u0422\u043e\u043d\u0433\u0430"
+    ],
+    "name:mri_x_preferred":[
+        "Tonga"
     ],
     "name:mrj_x_preferred":[
         "\u0422\u043e\u043d\u0433\u0430"
@@ -483,6 +537,9 @@
     ],
     "name:nav_x_preferred":[
         "T\u02bc\u00f3nga"
+    ],
+    "name:nav_x_variant":[
+        "K\u02bc\u00e9daan\u00edinii Bik\u00e9yah"
     ],
     "name:nde_x_preferred":[
         "Thonga"
@@ -589,6 +646,9 @@
     "name:sgs_x_preferred":[
         "Tuonga"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1011\u103d\u1004\u103a\u1038\u1075\u1083\u1087"
+    ],
     "name:sin_x_preferred":[
         "\u0da7\u0ddc\u0d82\u0d9c\u0dcf"
     ],
@@ -604,8 +664,14 @@
     "name:sme_x_preferred":[
         "Tonga"
     ],
+    "name:smn_x_preferred":[
+        "Tonga"
+    ],
     "name:smo_x_preferred":[
         "Toga"
+    ],
+    "name:sms_x_preferred":[
+        "Tonga"
     ],
     "name:sna_x_preferred":[
         "Tonga"
@@ -672,6 +738,9 @@
     "name:tir_x_preferred":[
         "\u1276\u1295\u130b"
     ],
+    "name:tok_x_preferred":[
+        "ma Tona"
+    ],
     "name:ton_x_preferred":[
         "Tonga"
     ],
@@ -693,6 +762,9 @@
     "name:twi_x_preferred":[
         "Tonga"
     ],
+    "name:udm_x_preferred":[
+        "\u0422\u043e\u043d\u0433\u0430"
+    ],
     "name:uig_x_preferred":[
         "Ton\u2019ga"
     ],
@@ -712,6 +784,9 @@
         "\u0679\u0648\u0646\u06af\u0627"
     ],
     "name:uzb_x_preferred":[
+        "Tonga"
+    ],
+    "name:vec_x_preferred":[
         "Tonga"
     ],
     "name:vep_x_preferred":[
@@ -991,7 +1066,7 @@
         "ton",
         "eng"
     ],
-    "wof:lastmodified":1617827404,
+    "wof:lastmodified":1690874882,
     "wof:name":"Tonga",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

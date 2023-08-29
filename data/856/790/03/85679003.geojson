@@ -29,29 +29,218 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:arg_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:ast_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:bar_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:bre_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:cat_x_preferred":[
+        "Tongatapu"
+    ],
     "name:ceb_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:ces_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:cos_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:cym_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:dan_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:deu_x_preferred":[
         "Tongatapu"
     ],
     "name:eng_x_preferred":[
         "Tongatapu"
     ],
+    "name:epo_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:est_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:eus_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:fin_x_preferred":[
+        "Tongatapu"
+    ],
     "name:fra_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:frp_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:fur_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:gla_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:gle_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:glg_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:gsw_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:hrv_x_preferred":[
         "Tongatapu"
     ],
     "name:hun_x_preferred":[
         "Tongatapu"
     ],
+    "name:ido_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:ile_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:ina_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:ind_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:isl_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:ita_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30f3\u30ac\u30bf\u30d7\uff08\u5730\u533a\uff09"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10dd\u10dc\u10d2\u10d0\u10e2\u10d0\u10de\u10e3\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:kon_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:lij_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:lim_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:ltz_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:min_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:mlg_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:msa_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:nap_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:nds_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:nld_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:nno_x_preferred":[
+        "Tongatapu"
+    ],
     "name:nob_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:nrm_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:oci_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:pcd_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:pms_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:pol_x_preferred":[
         "Tongatapu"
     ],
     "name:por_x_preferred":[
         "Tongatapu"
     ],
+    "name:roh_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:ron_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:scn_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:sco_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:slk_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:slv_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:spa_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:srd_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:swa_x_preferred":[
+        "Tongatapu"
+    ],
     "name:swe_x_preferred":[
         "Tongatapu"
     ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u043d\u0433\u0430\u0442\u0430\u043f\u0443"
+    ],
     "name:und_x_variant":[
         "Tongatapu Island Division"
+    ],
+    "name:vec_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:vie_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:vls_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:vol_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:wln_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:wol_x_preferred":[
+        "Tongatapu"
+    ],
+    "name:zul_x_preferred":[
+        "Tongatapu"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TON",
@@ -171,7 +360,7 @@
         "ton",
         "eng"
     ],
-    "wof:lastmodified":1636495628,
+    "wof:lastmodified":1690874880,
     "wof:name":"Tongatapu",
     "wof:parent_id":85632455,
     "wof:placetype":"region",
