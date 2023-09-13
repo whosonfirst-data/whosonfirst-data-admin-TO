@@ -997,7 +997,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"676",
     "statoids:ds":"TO",
     "statoids:fifa":"TGA",
@@ -1070,7 +1070,7 @@
         "ton",
         "eng"
     ],
-    "wof:lastmodified":1694492055,
+    "wof:lastmodified":1694639510,
     "wof:name":"Tonga",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
