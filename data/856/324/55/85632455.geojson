@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065749,
-    "geom:area_square_m":764384141.892778,
+    "geom:area_square_m":764384141.892936,
     "geom:bbox":"-176.219635,-22.342083,-173.700439,-15.560416",
     "geom:latitude":-19.842768,
     "geom:longitude":-174.817923,
@@ -14,6 +14,9 @@
     "iso:country":"TO",
     "itu:country_code":[
         "676"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "TO"
@@ -993,7 +996,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"676",
     "statoids:ds":"TO",
     "statoids:fifa":"TGA",
@@ -1050,7 +1054,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth"
     ],
-    "wof:geomhash":"22230d03312a4dbede55d73ffa128918",
+    "wof:geomhash":"ad157b15cc7fda9f5d8d940dc17d2975",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -1066,12 +1070,12 @@
         "ton",
         "eng"
     ],
-    "wof:lastmodified":1690874882,
+    "wof:lastmodified":1694639510,
     "wof:name":"Tonga",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
-    "wof:population":105323,
-    "wof:population_rank":9,
+    "wof:population":104494,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-to",
     "wof:shortcode":"TO",
     "wof:superseded_by":[],
