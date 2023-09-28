@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006857,
-    "geom:area_square_m":78952840.225586,
+    "geom:area_square_m":78952223.02547,
     "geom:bbox":"-174.983632,-21.454197,-174.908518,-21.284438",
     "geom:latitude":-21.374511,
     "geom:longitude":-174.937956,
@@ -183,12 +183,14 @@
         "gn:id":7668021,
         "gp:id":-99,
         "hasc:id":"TO.EU",
+        "iso:code":"TO-01",
         "iso:id":"TO-01",
         "unlc:id":"TO-01",
         "wd:id":"Q18472979"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TO",
-    "wof:geomhash":"e8861eb132364560796f6f43529a6f58",
+    "wof:geomhash":"dc8e95c0f75b18cefb3bdc2265771e35",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -205,7 +207,7 @@
         "ton",
         "eng"
     ],
-    "wof:lastmodified":1690874881,
+    "wof:lastmodified":1695884803,
     "wof:name":"Eua",
     "wof:parent_id":85632455,
     "wof:placetype":"region",

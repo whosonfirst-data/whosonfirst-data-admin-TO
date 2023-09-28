@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011241,
-    "geom:area_square_m":131706259.786271,
+    "geom:area_square_m":131706465.502605,
     "geom:bbox":"-174.664133,-18.817478,-173.914255,-18.566176",
     "geom:latitude":-18.637719,
     "geom:longitude":-174.04837,
@@ -270,13 +270,15 @@
         "gn:id":4032231,
         "gp:id":2347211,
         "hasc:id":"TO.VA",
+        "iso:code":"TO-05",
         "iso:id":"TO-05",
         "qs_pg:id":239517,
         "unlc:id":"TO-05",
         "wd:id":"Q859666"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TO",
-    "wof:geomhash":"ca9140ca8dd6a37e8c1d75aa3633e6fc",
+    "wof:geomhash":"0801c733e6f7cf13768ebd0c230511fa",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -293,7 +295,7 @@
         "ton",
         "eng"
     ],
-    "wof:lastmodified":1636495628,
+    "wof:lastmodified":1695884803,
     "wof:name":"Vava'u",
     "wof:parent_id":85632455,
     "wof:placetype":"region",
