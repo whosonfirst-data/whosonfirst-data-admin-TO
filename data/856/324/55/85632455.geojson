@@ -1035,6 +1035,7 @@
         "hasc:id":"TO",
         "icao:code":"A3",
         "ioc:id":"TGA",
+        "iso:code":"TO",
         "itu:id":"TON",
         "m49:code":"776",
         "marc:id":"to",
@@ -1048,6 +1049,7 @@
         "wk:page":"Tonga",
         "wmo:id":"TO"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TO",
     "wof:country_alpha3":"TON",
     "wof:geom_alt":[
@@ -1070,7 +1072,7 @@
         "ton",
         "eng"
     ],
-    "wof:lastmodified":1694639510,
+    "wof:lastmodified":1695881164,
     "wof:name":"Tonga",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

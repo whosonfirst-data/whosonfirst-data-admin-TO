@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009119,
-    "geom:area_square_m":106114312.614084,
+    "geom:area_square_m":106114655.267609,
     "geom:bbox":"-175.100331,-20.267104,-174.244008,-19.592706",
     "geom:latitude":-19.768735,
     "geom:longitude":-174.680555,
@@ -270,13 +270,15 @@
         "gn:id":4032637,
         "gp:id":2347209,
         "hasc:id":"TO.HA",
+        "iso:code":"TO-02",
         "iso:id":"TO-02",
         "qs_pg:id":1135384,
         "unlc:id":"TO-02",
         "wd:id":"Q612098"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TO",
-    "wof:geomhash":"be31dd986049953f7092b7386f423c61",
+    "wof:geomhash":"48ce85afa0987ddbe38329667e55475b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -293,7 +295,7 @@
         "ton",
         "eng"
     ],
-    "wof:lastmodified":1690874881,
+    "wof:lastmodified":1695884803,
     "wof:name":"Ha'apai",
     "wof:parent_id":85632455,
     "wof:placetype":"region",

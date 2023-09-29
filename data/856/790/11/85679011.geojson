@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004786,
-    "geom:area_square_m":56977393.126953,
+    "geom:area_square_m":56977732.200278,
     "geom:bbox":"-175.686269,-15.976739,-173.713531,-15.559503",
     "geom:latitude":-15.692069,
     "geom:longitude":-175.122029,
@@ -267,14 +267,16 @@
         "gn:id":7668055,
         "gp:id":-99,
         "hasc:id":"TO.NI",
+        "iso:code":"TO-03",
         "iso:id":"TO-03",
         "qs_pg:id":696679,
         "unlc:id":"TO-03",
         "wd:id":"Q1200954",
         "wk:page":"Niuas"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TO",
-    "wof:geomhash":"7cfb164b63d86f2f696374e1926783c6",
+    "wof:geomhash":"4325dd30b917f47be6bb3e1b3d79947c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -291,7 +293,7 @@
         "ton",
         "eng"
     ],
-    "wof:lastmodified":1690874880,
+    "wof:lastmodified":1695884803,
     "wof:name":"Niuas",
     "wof:parent_id":85632455,
     "wof:placetype":"region",
